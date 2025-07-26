@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 
 function Hero() {
@@ -14,7 +15,7 @@ function Hero() {
             investment offerings{" "}
             <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
           </a>
-        </p>
+        </p> 
       </div>
     </div>
   );
